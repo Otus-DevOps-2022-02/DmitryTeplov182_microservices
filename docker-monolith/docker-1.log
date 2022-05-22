@@ -1,0 +1,8 @@
+REPOSITORY                        TAG       IMAGE ID       CREATED              SIZE
+dmitryteplov182/ubuntu-tmp-file   latest    3bda67d8b684   About a minute ago   63.2MB
+ubuntu                            18.04     c6ad7e71ba7d   3 weeks ago          63.2MB
+hello-world                       latest    feb5d9fea6a5   8 months ago         13.3kB
+
+
+Docker image - это файл образа из него рождаются контейнеры. Он статичный без RW 
+Docker container - это экземпляр image. Есть rw, может иметь сеть и т.д.
